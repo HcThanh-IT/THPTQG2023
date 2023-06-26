@@ -18,6 +18,7 @@ body {
 }
 marquee{
     font-size: 50px;
+    margin-bottom: 200px;
 }
 .qr{
     display: flex;
